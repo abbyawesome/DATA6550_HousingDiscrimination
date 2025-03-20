@@ -1,0 +1,194 @@
+
+Now recording. Howdy ho? Hello. Hello. How was everyone else's spring or how was everyone's spring break, actually?
+
+Honestly, I did not have that much of a spring break as I was sick. Literally, the moment I Oh my god. And then I was not I god damn being sick on Tuesday. And then Tuesday evening, I had to come back on campus because I was on call for all of housing, from Wednesday up until Monday morning. So there was no break at all.
+
+Oh, that sucks. Yeah. But I got all I got my weekday on call schedule out of the way, which is great because I started a six to nine class on Tuesday. So it makes it very hard for someone to, like, cover for me. So I'm glad that I'm done with my week week day coverage now.
+
+Yeah. So how is it that you started a new class? You didn't I had an accelerated two course. Okay. Yeah.
+
+I just started a class this week too. What class? Sixty three thirty. What is I'm sorry. I'm over the summer.
+
+Is that modeling? Modeling? It it's the fourth one that you're required to take. I just finished the third one. Okay.
+
+I think that one is opt optimize a model optimization and Yeah. Model optimization. Yeah. I I remember that class. I I I had a good I had a good time taking that class.
+
+A horrible time in that class. I was in the first cohort, and we literally didn't do anything except I mean, it was it was awful, awful with a capital a. We didn't deploy any models. We didn't optimize any models. We just churned through second harvest data trying to find some predictive, you know, something that we could predict.
+
+And and and I don't remember. It was it was it was just awful. So I'm I would not mind auditing that class and taking it again because, again, that first class was I mean, we literally didn't do anything. Well, that makes me confident in taking this class in the summer. Yeah.
+
+It sounds like it's gotten a lot later. Yeah. Hopefully, it's changed. Yeah. Yeah.
+
+I liked it because it was just like you build up your project. When I took it last spring, it was just you build up your project as you go. That was just the assignments, which was really great, because then it's not like you have to focus on too many things at it's at one time. Yeah. And so you're deploying you're putting some you're putting something in production somewhere, or what are you guys deploying?
+
+It was like I forget what exactly we had to do, but it was just, like, making models just in general. So for me, I created a recommender I did, like, a recommender system. Okay. And just elaborating on that. I used PCA for it.
+
+I used whatever else you whatever else you can use for Yeah. For for recommender system. But it was just, like, I created kind of, like, a knockoff, like, pop culture website, and they were trying to figure out how they're going to do their weekly review segment or whatever. So I was just, like, I created my own datasets for all the categories. And I just created a model off of that and create a recommendation space off of the specific, like, podcast or album or TV show.
+
+Okay. Nice. Interesting. I like song. So, Abby, are you early on in your program given that you you're just not taking those first four, or are you just mixing those in over?
+
+Oh, it ended up being a little weird for me. So I took the first class over the summer. But so, like, where I'm at right now is I take three classes in fall, and I'm done. Nice. Oh.
+
+Let's go. When do you graduate this fall? Yeah. I graduate December. Oh, me too.
+
+Same same z's. Well, me too if I go this summer, and I'm trying to decide whether I'm gonna go this summer. So that's interesting. I was done in the fall. I think you should say you can join us.
+
+Yeah. We should definitely meet up and have a beer. That would be so funny. Did they offer the class you meet during summer? Some of them they do, but not all.
+
+I know. I'm taking sixty three thirty, and then I have one more elective which I'm taking over the summer or I'm gonna try to take over the summer. And then in the fall, I've got the topic seminar. Yeah. I'm I'm re I'm redoing topics in the fall.
+
+I had to one was really hard. Yeah. I had to drop it because a lot of it was, like, linear algebra, and I didn't have to take linear algebra in undergrad. So I was like, hey. I can't do it because, also, for my role on campus, grades is also very important.
+
+So if I continue with that class, I would have probably lost my job. So I was like, you know what? I have to I have to put in the towel in for this one right now. And then over the summer, I plan to, like, try and strengthen up on linear algebra and other stuff for that course. Vary.
+
+So I'm missing that one too. That's the and so you guys are all taking that in the fall? Yes. Yep. Yep.
+
+But, technically, I looked at the, timeline. Technically, you're supposed to take it your last semester, and now I understand why. And you know, you know who's teaching that. Right, Miracle? Ramala is teaching it.
+
+Oh, I thought, I thought doctor Leo was teaching it. No. She taught it for the spring. She taught it for the spring. And doctor and doctor Ramala is a big math professor, so that's gonna be fun.
+
+He yeah. He was the fir I think he was the the first professor in this program that actually made me cry. Oh. Oh. Yeah.
+
+I was I love doctor Romal. So Oh, I don't know. Wait. What class did you take that, like, that I took predictive I took predictive modeling with him. That was my first class with him.
+
+And, like, it was fine or whatever. But, like, I was also kind of going through things during that semester, so it was like, and then I took topics I attempt I took topics within the first month of semester, and I kind of hit a breaking point when he took a whole entire hour to solve a math problem. I literally left class, screamed in my car, and I was like, I have to drop this class. Yeah. That was valid.
+
+Wow. Well, alrighty then. Yeah. I don't know how much help I'd be, but I did used to tutor linear algebra and all the other math. Hit me up.
+
+I'm gonna be taking that class too. I'll make sure to sit right next to you. No. No. No.
+
+We're gonna be all no. That's this makes me feel better. We're all in this we're gonna be all in this together, guys. I'm gonna sit behind you, Abby. I want you to bring a big screen.
+
+We're just gonna be one big like, one, like, four person section in the class. It's gonna be great. Alright. Did you guys, happen to look over the document at all yet? Or Yes.
+
+I looked at it. I fixed the citation. Okay. Cool. Just really quick.
+
+But, yeah, for the most part, I think it looked great, especially what we were working with. I I appreciate for you fixing my, citation because I did not know what format it was in. So I was like, I wanna make sure it's even, and I was gonna ask when we got into this call. Yeah. Hold on.
+
+Wait. That one I didn't fix. Number four. I didn't do number four. I went and did mine.
+
+Okay. I just reassigned I just reassigned the number. Okay. Gotcha. Gotcha.
+
+Yep. It's MLA citation or vaguely close to it. Yeah. M yep. M good old MLA.
+
+Is that what we're supposed to be using all the time? I don't think you No. I'm I always yeah. That's what I'm used to. Okay.
+
+No. Like, through high school and then some of the college English classes, that's usually the default. It's not anything, like, set in stone. Yeah. Well, I do like how it turned out.
+
+Yeah. I think we all did a really good job. Go ahead. Sorry. I couldn't program oh, sorry.
+
+Go ahead. Yeah. No. I'm sorry. This is this is stupid, dumb, nitpicky, but, algorithmic bias.
+
+Can I bump that up to 16 fonts so it'll be consistent? Yeah. Plea yeah. Please. I I didn't even realize that.
+
+I know. That was me because we had, like, something above it, and so I made them as initially, it was header like, there was a header too. Oh, they made header. Oh. Yeah.
+
+I made data bias and algorithmic bias header threes under like I think we did like findings or something but I think we got rid of that. So good call on that. I think you did a good job pulling this together. I think it, Yeah. You know, you had a lot of nonsense to work with.
+
+I know certainly from my stuff. So, I'm No. You're all good. I I wish I could have gotten more code done. I just I didn't realize that, the Ramsey was gonna be too much of a problem.
+
+And, like, all throughout the spring break, I was busy interviewing. So I didn't my mind was a little elsewhere, but I'm happy to have been able to put everything together. I mean, I was out of the country. I didn't work on it either. Yeah.
+
+No. I did not start moving on this until, like, Sunday. Because last week I don't know what happened last week, but it was not You got sick, man? Yeah. No.
+
+I was sick, and it was just, like, so much going on all at once. I was just having to catch up on life. It was wild. I literally my mom has surgery last yesterday. She's fine, by the way.
+
+I was literally in the waiting room, like, literally, like, trying to find so much. And when I got back to campus, I that's literally the only thing I worked on when I got back to campus was this. So I'm really pleased. Well, based off of everyone's circumstances, because it seems like this one was a little rough for all of us. I'm really pleased with how quickly and productively we were able to pull it together.
+
+I I I don't know if I reached out to, doctor Wallen on Monday because most of what I found struck me as counterintuitive. Right? Yeah. There there were, there there was better and, you know, I I won't even pretend to go back through the findings because they they they just, it clearly didn't go like I thought it was gonna go. So, yeah, I I he didn't respond, but I did reach out to him just so that I could have a discussion in case I had totally missed it.
+
+Yeah. But do do we wanna talk about any of of the content of this? Did any anything strike anybody as it really interesting? I I mean, like, I I did breathe through a lot of it because of, you know, putting it everything together. The tenant screening was really interesting.
+
+And I feel like there was there's a lot of, I guess, like, duality in, like, this this problem and, like, I guess, like, the algorithmic bias and data bias within, like, the specific problem set and, like, the issues of general lending algorithms and how, like, a lot of these algorithms are just poorly built, I guess. I think, like, in my discussion, I put how, like, they primarily use, like, credit scores and income history when, like, there are also so many other factors that go into Right. Actually, like, approving mortgages and things like that. So I found that really interesting. Yeah.
+
+So what is the what what was the what was the, sort of big message on tenant screening? I haven't read it read that part of it. Yeah. So in short, tenant screening a lot there there's there's this phenomena, which is very, very interesting. Fun fact, tenant screening software, that's like a $3,000,000,000 industry.
+
+Okay. It's fascinating. Essentially, what it is, they feed these algo these algorithms are fed things like credit scores, eviction history, and criminal records of potential tenants to see to see whether or not they'll be a trustworthy person to live on a property. Right. And and a lot of that that's really problematic for a variety of reasons.
+
+First, essentially, first, credit score isn't the best the best determiner because credit scores can't always accurately tell whether or not if you're able to pay your rent each month, because it doesn't really take account your current financial situation. Also, a lot of marginalized communities don't have the opportunity to build the credit score that they want due to just historical things as well as things like redlining and other discriminatory practices. And then another big thing, which I found really interesting, was criminal history. But I actually didn't really know they used criminal history that much because my mom rents our, like, house and everything. She's been renting for the past couple years, and I haven't seen that in any of her applications.
+
+Mhmm. So that was very fascinating to me. But criminal history, that was one was the most problematic one because it kind of doesn't take into account how over police marginalized communities are. And then two, a lot of the screening softwares they use to for criminal history, they aren't the most accurate. In fact, there is a lot of issues with I think some people sued over inaccuracies because it was a situation where it was either people shared the same name and the person who was trying to get the property has to take the fault of someone who shares their name, or it was the software couldn't distinguish between convictions and actual arrest.
+
+So it kind of was an unfair situation where they will take into account the arrest as an actual mark on your record. Interesting. Interesting. Yeah. Yeah.
+
+In my, in college, I guess my undergrad, my roommate, she got denied at first from our apartment because her name was Hannah Jones. And so a 30 year old lady who was currently in prison was also named Hannah Jones. Oh. Which meant that the 19 year old Hannah Jones was obviously a convicted felon. Yeah.
+
+That's weird. For sure. Because you would think they would use stuff like, oh, like your middle name as a distinguisher or, like, they would run your social for things like that. Like, they could just check date of birth and be like, oh, that's not her. But Yeah.
+
+Right. Interesting. Well, I this this the whole thing kinda opened my eyes because, the the the the racial covenants, you know, the presence of those, did not have the long term linear effects that I presumed that they would. I I don't know what that says about me, but I just thought going in. Maybe because of the way we've done projects in the past.
+
+In the past, there's usually a pretty strong relationship between our our target and our descriptive variable. Right? But but that wasn't necessarily the case here. So it it it really kind of, I you know, I I I said it before. I won't keep saying it.
+
+It it it makes you it made me think, I don't know if that's actually a form of bias or just a form of dumbness, but it it just it it it challenged my assumptions about how all this stuff works. Let me just say that. Yeah. For sure. This is probably very interesting because I don't think I I don't think I ever learned about racial covenants in, like, my history classes.
+
+So this was an entirely new concept to me. Yeah. I don't think I'd ever heard about it either. My history class was always very carefully went to exactly the end of World War II, and we didn't talk about anything in Korea or Vietnam. But of course.
+
+Yeah. The last history course I took that con the only ish was, like, AP US history, but I only covered up until, like, early two like, barely early two thousands. Everything else I've ever taken was it stops, like Abby said, World War two. Or, like, at least up until, like, segregation. Right.
+
+Yeah. You know, what's interesting though as I think about this, I remember visiting my grandparents as a little, little, you know, young, really young kid, and their whole neighborhood was was white. It wasn't affluent. It wasn't even upper middle class. It was probably truthfully lower middle class.
+
+I mean, I'm I'm just kinda guessing thinking back about it. But I remember I went to college in that town. So that would have been, you know, when I when I my first memories were four, five, or six. And then I came back to college in that same town. And by the time I came back to college, that same neighborhood was completely ethnic.
+
+And I I was always kind of perplexed. I I don't know if that's the right word, but that was always kind of very interesting to me. And and now you can imagine or I wonder if that had that was partly or solely because of these kinds of covenants that they had property restrictions. It's interesting. You don't think, you know, if it doesn't affect you, you just don't have a grid for it, I guess, is one way of saying that.
+
+Understand how it impacts others if you've never experienced it firsthand. Yeah. For sure. Okay. Well, do we need to do anything, else to wrap this up?
+
+I think the only thing is making sure every I I just went in and pushed everything on my end. I forgot that I didn't do it. Just, like, making sure everything is pushed on GitHub and then the individual reflections. Yeah. Okay.
+
+Alright. Oh my god. I forgot about the individual license. I forgot about that's the one thing I always forget about. I know.
+
+I know. So you saved me last time. I think it was because I had not even thought about doing it, and you're like, don't forget it. Dude, I also forgot that I had a reading quiz due tonight until I was talking to somebody about, like, my assignments, and I was like, oh my god. Wait.
+
+I say I yeah. That reading assignment I mean, that reading quiz, it was not my priority at all. I'll be so real. Because I was behind in my other class, and I was behind in this class I mean, on the project. So I was just like, I am going to do that that reading quiz.
+
+I've passed enough of them. If that's the one if this one is the one that takes me out this week, I am fine. Yeah. Like, it is it is There's a total of eight points. Right?
+
+That's hardly, you know, one of those. Yeah. Like, if I mess up this one, like, I get nineties like, eighties and nineties on the other ones that I do. If this is the one that I mess up on, I am fine. I will live.
+
+Oh, that's fine. Zoom meetings, accounts are the same. What is it, Abby? If you go to two Zoom meetings, it counts about the same. Right.
+
+There you go. And honestly, I don't put so as much effort as you into these miracle. If I get a five or six, I I just, you know, I I'm done with it. So I probably should be a little more probably should do a little better with those, but but I haven't put that you know, I haven't made those the priority. Yeah.
+
+I one thing that I carried for me from undergrad to grad is, like, some points is better than none, but, like, the smaller stuff, try and make it count because you never know if that's, like, you're making or breaking. He messed up on the bigger things. Yeah. I got it. You're right.
+
+Well, I got an a at midterm, so that's really how I care about it. Yeah. Me too. Yeah. Me too.
+
+I I saw that. I thought, hey. I'm doing pretty good. I'm doing way better than what than what I was doing last semester. Yeah.
+
+Okay. I just Are we good or really hope oh, sorry. No. Go ahead, Amy. I just I would very much like if the next project was a project that was completable by itself from the start.
+
+Oh my god. Yeah. I was looking I was looking through a couple of projects over the next couple of, like, weeks and, like, reproducibility seems it just seems like we're reproducing a scientific experiment that we find. And privacy and regulation, we are looking through a privacy policy and then just, like, I don't I don't think there's any coding involved. And there's the future of AI, which, you know It's just the, like I hate how it seems like every other week now I have to either me or someone else has to end up emailing him to be like, hey, it didn't work.
+
+Hey, you didn't put the data there. Hey, it didn't Yeah. Yeah. I love it if it works. I guess that I guess that's the beauty of being the dean of the PhD program or whatever the the name is or the director.
+
+Sorry. The director. Either even then, you would expect, like, the director to kind of be on top of it. I'm not sure if that's just me. But You know, that's funny.
+
+I got a lot of grace for doctor Wall. Not I'm not saying that because he's gonna be listening to this, but I I he he I mean, he put a lot of work into making this team concept work. Right? I mean, I I don't see anybody else doing that. And his class discussions, I think, are pretty interesting.
+
+I've sat through a lot of classes where I just wanted to poke myself in the eyeball with a pencil, and that's not the way it is with him. That is true. Yeah. I've I've enjoyed the class. I've enjoyed the teaming part of it for sure.
+
+Yeah. It's it's definitely a new concept, I think, in, like, many classes I've taken. Like, I haven't had something like this before, which is interesting. I've been enjoying it so far. It's worth to pull it off, I think.
+
+Right? The all these recordings that he's got to look at or listen to and make certain this this, you know, post submission sort of assessment thing. He's gotta look at all those too. So yeah. I'm Yeah.
+
+I'm I'm digging with it. You know, I like what he's done. Yeah. I just wish he would take the extra, like, ten minutes to make sure it's reproducible by a student, you know? Well, lucky for us, we get to do that soon.
+
+Alrighty. Well, anything else, gang? Chris, tonight? I think that's all. Do you do you reflect on and then we should be good.
+
+I will be I will be sending a screenshot in our group chat of the confirmed, audio files and or, not the audio, the text transcriptions and the AI summaries in the GitHub repo just in case. Sounds good to me. Thanks for doing that, Steven. I'm I'm Yeah. Thank you.
+
+Appreciate you doing this, so I don't I don't even have to think about it. So thank you. All good. Alrighty. Well, I'm not sure who he's gonna pick tomorrow.
+
+I will still be preparing just in case because I don't trust him. But I have not gone yet. So if anybody gets picked, he might just say, hey. I've gone, like, seven times. He pitched you he pitched you last class when you were there.
+
+Yeah. I told him I told him I wasn't gonna be there. I wasn't feeling well. And he still picked me. How's that?
+
+That's interesting. That's wild. Luckily, Abby was very excited to take over. So She was. It worked out.
+
+Thank you, Abby. I am I am more than happy to take over at any time. Who knows? Maybe you'll get ticked again. Who knows?
+
+I think it is Charles up this week, but we'll see. Okay. Well, that's good to know. I'll be I I I don't mind doing it either, so it's not an issue. I'll be ready.
+
+Alrighty. Well, I'll go ahead and stop the recording unless anybody else has anything they have a burning desire to say. No burning desire. Maybe like a, like, a slight tinge of desire? No.
+
+I wish it was till spring break. Dude, same. Alright. I'm a go ahead and stop.
